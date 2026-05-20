@@ -1,0 +1,87 @@
+{
+    "train": [
+        {
+            "word": "Diese",
+            "label": 0
+        },
+        {
+            "word": "treffe",
+            "label": 0
+        },
+        {
+            "word": "besonders",
+            "label": 0
+        },
+        {
+            "word": "oft",
+            "label": 0
+        },
+        {
+            "word": "Frauen",
+            "label": 0
+        },
+        {
+            "word": ",",
+            "label": 0
+        },
+        {
+            "word": "queere",
+            "label": 1
+        },
+        {
+            "word": "und",
+            "label": 0
+        },
+        {
+            "word": "migrantische",
+            "label": 1
+        },
+        {
+            "word": "Menschen",
+            "label": 0
+        },
+        {
+            "word": "und",
+            "label": 0
+        },
+        {
+            "word": "Jugendliche",
+            "label": 1
+        },
+        {
+            "word": ",",
+            "label": 0
+        }
+   ],
+    "dev": [
+        {
+            "word": "Er",
+            "label": 0
+        },
+        {
+            "word": "ist",
+            "label": 0
+        },
+        {
+            "word": "weiter",
+            "label": 0
+        },
+        {
+            "word": "auf",
+            "label": 0
+        },
+        {
+            "word": "der",
+            "label": 0
+        },
+        {
+            "word": "Flucht",
+            "label": 1
+        },
+        {
+            "word": ".",
+            "label": 0
+        }
+    ]
+}
+
