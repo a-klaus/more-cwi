@@ -14,5 +14,5 @@ The data example file shows the required training data format.
 
 ## Fine-tuned T5 model
 
-(to come)
+Find the code and a notebook with saved cell outputs in the directory `T5_seq2seq_CWI`.
 
