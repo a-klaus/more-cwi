@@ -15,4 +15,4 @@ The data example file shows the required training data format.
 ## Fine-tuned T5 model
 
 Find the code and a notebook with saved cell outputs in the directory `T5_seq2seq_CWI`.
-
+You should be able to view the outputs at [nbviewer](https://nbviewer.org/github/a-klaus/more-cwi/blob/main/T5_seq2seq_CWI/T5_cwidentifier.ipynb).
